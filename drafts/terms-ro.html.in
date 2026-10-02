@@ -54,7 +54,7 @@
 
 <h3 id="s4">4. Folosire acceptabilă</h3>
 
-<p>Nu ai voie să folosești CIPHERA ca să:</p>
+<p>CIPHERA <strong>nu tolerează deloc conținutul inacceptabil și utilizatorii abuzivi</strong>. Conținut inacceptabil este tot ce interzice această secțiune; utilizator abuziv este oricine folosește CIPHERA ca să facă așa ceva. Nu ai voie să folosești CIPHERA ca să:</p>
 
 <ul>
   <li>distribui materiale care exploatează sexual sau pun în pericol copii, în orice formă;</li>
@@ -66,9 +66,11 @@
   <li>testezi, ataci, supraîncarci sau decompilezi serverele serviciului ori să ocolești blocări, limite sau suspendări.</li>
 </ul>
 
+<p>Oricine poate bloca și raporta un cont care face așa ceva (secțiunea 5). Conținutul și conturile care încalcă aceste reguli sunt eliminate.</p>
+
 <h3 id="s5">5. Blocare, raportare și măsuri</h3>
 
-<p>Poți bloca orice cont; un cont blocat nu te mai poate contacta. Poți raporta un cont, o conversație sau un mesaj din aplicație. Deoarece conținutul este criptat end-to-end, vedem doar ce alege cel care raportează să includă din propria copie a conversației. Analizăm rapoartele cât de repede putem, cu prioritate cele despre siguranța copiilor. Dacă stabilim că un cont încalcă acești termeni, îl putem avertiza, limita, suspenda sau închide, iar acolo unde legea o cere sesizăm autoritățile competente. Poți contesta o decizie scriind la {{SUPPORT_EMAIL}}.</p>
+<p>Poți bloca orice cont; un cont blocat nu te mai poate contacta. Poți raporta un cont, o conversație sau un mesaj din aplicație. Deoarece conținutul este criptat end-to-end, vedem doar ce alege cel care raportează să includă din propria copie a conversației. <strong>Analizăm rapoartele, de obicei în 24 de ore</strong>, cu prioritate cele despre siguranța copiilor. <strong>Conținutul și conturile care încalcă acești termeni sunt eliminate</strong>: eliminăm conținutul din serviciu și închidem contul care l-a trimis, ceea ce îi încheie toate sesiunile și îl împiedică să se mai autentifice. Un mesaj deja livrat rămâne criptat end-to-end pe dispozitivele destinatarilor, unde fiecare destinatar îl poate șterge și îl poate bloca pe expeditor. Acolo unde legea o cere, sesizăm autoritățile competente. Poți contesta o decizie scriind la {{SUPPORT_EMAIL}}.</p>
 
 <h3 id="s6">6. Conținutul tău</h3>
 
@@ -88,7 +90,7 @@
 
 <h3 id="s10">10. Încetarea acordului</h3>
 
-<p>Poți înceta oricând să folosești CIPHERA și îți poți șterge contul din aplicație (Setări → Șterge contul). Putem închide un cont care încalcă grav sau repetat acești termeni (secțiunea 5). Închiderea unui cont nu anulează un abonament App Store; anulează-l la Apple (secțiunea 3.2).</p>
+<p>Poți înceta oricând să folosești CIPHERA și îți poți șterge contul din aplicație (Setări → Șterge contul). Închidem un cont care încalcă acești termeni (secțiunile 4 și 5). Închiderea unui cont nu anulează un abonament App Store; anulează-l la Apple (secțiunea 3.2).</p>
 
 <h3 id="s11">11. Legea aplicabilă</h3>
 

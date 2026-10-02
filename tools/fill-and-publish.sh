@@ -94,11 +94,13 @@ base="https://tommy-bytes.github.io/ciphera-encrypted-chat"
 for i in $(seq 1 40); do
   ok=1
   for p in privacy.html privacy-ro.html terms.html terms-ro.html; do
-    code="$(curl -s -o /dev/null --max-time 15 -w '%{http_code}' "$base/$p" || true)"
+    # Cache-buster: GitHub Pages' CDN keeps the earlier 404 for up to 10 minutes.
+    code="$(curl -s -o /dev/null -L --max-time 15 -w '%{http_code}' "$base/$p?cb=$(date +%s)$RANDOM" || true)"
     [ "$code" = "200" ] || ok=0
   done
   if [ "$ok" = 1 ]; then
     for p in privacy.html privacy-ro.html terms.html terms-ro.html; do echo "OK 200 $base/$p"; done
+    echo "Next, in the CIPHERA repository: bash docs/legal/check-publishable.sh --live (every page the apps link, live content)."
     exit 0
   fi
   sleep 15
