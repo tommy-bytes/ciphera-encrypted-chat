@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Terms of Service · CIPHERA Encrypted Chat</title>
+<meta name="description" content="The terms of the CIPHERA messaging service: who may use it, acceptable use, reporting and enforcement.">
+<meta name="theme-color" content="#050B18">
+<link rel="icon" type="image/png" sizes="256x256" href="icon-256.png">
+<link rel="apple-touch-icon" href="icon-256.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <img class="mark" src="icon-256.png" width="44" height="44" alt="">
+      <div>
+        <h1>CIPHERA Encrypted Chat</h1>
+        <p>End-to-end encrypted messages, calls and files · iPhone, iPad and Mac</p>
+      </div>
+    </div>
+    <nav>
+      <a href="./">Home</a>
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html" class="on">Terms of Service</a>
+      <a href="terms-ro.html">Română</a>
+    </nav>
+  </div>
+</header>
+<main><div class="wrap">
+<h2>CIPHERA Terms of Service</h2>
+
+<p class="meta">Effective date: {{EFFECTIVE_DATE}} · <a href="terms-ro.html">Versiunea în limba română</a></p>
+
+<p>These terms are an agreement between you and <strong>MSCS di Stefan E.</strong>, {{CONTROLLER_ADDRESS}} ("we"), for the use of the CIPHERA messaging service. The CIPHERA app you download from the App Store is licensed to you under Apple's standard Licensed Application End User License Agreement; if these terms and that licence conflict about the app itself, the licence prevails. How we handle personal data is described in the CIPHERA Privacy Policy.</p>
+
+<h3 id="s1">1. Who may use CIPHERA</h3>
+
+<p>CIPHERA is provided to members of IPSTSO. An account can be created only with an e-mail address that is on the member list of this CIPHERA deployment; an address that is not listed is refused at sign-in and no account is created. The list is kept by MSCS di Stefan E. and the operators it designates. You must also be at least 16 years old and able to enter into this agreement, and you may not use CIPHERA if the law of your country forbids it.</p>
+
+<h3 id="s2">2. Your account and your keys</h3>
+
+<p>You sign in with Apple, Google or Microsoft. Your identity keys are created and kept on your devices. We cannot read your messages and <strong>we cannot recover your keys</strong>: if you lose all your devices and have not set up recovery, your identity and your message history cannot be restored. Keep your recovery code private and safe, protect your devices with a passcode, and remove devices you no longer use in Security Center.</p>
+
+<h3 id="s3">3. Membership and cost</h3>
+
+<p>CIPHERA is free of charge for members. There is nothing to buy in the app and no payment is ever requested. Access depends on membership: when your e-mail address or your organisation's domain is removed from the member list, your account is disabled at the next check — your sessions end, you can no longer sign in and your contacts see your account as unavailable. Your data is not deleted by that step; you can ask us to delete it (section 10), or it is deleted when you delete the account.</p>
+
+<h3 id="s4">4. Acceptable use</h3>
+
+<p>You may not use CIPHERA to:</p>
+
+<ul>
+  <li>share material that sexually exploits or endangers children, in any form;</li>
+  <li>threaten, harass, bully or intimidate anyone, or encourage violence or self-harm;</li>
+  <li>send spam, unsolicited bulk messages or automated messages to people who did not ask for them;</li>
+  <li>impersonate a person or an organisation, or mislead people about who you are;</li>
+  <li>commit or promote fraud, scams, or any other illegal activity, or distribute malware;</li>
+  <li>infringe other people's intellectual property or privacy, including sharing someone's private images without consent;</li>
+  <li>probe, attack, overload or reverse-engineer the service's servers, or get around blocks, limits or suspensions.</li>
+</ul>
+
+<h3 id="s5">5. Blocking, reporting and enforcement</h3>
+
+<p>You can block any account; a blocked account can no longer reach you. You can report an account, a conversation or a message from the app. Because content is end-to-end encrypted, we see only what the reporter chooses to include from their own copy of the conversation. We review reports as quickly as we can, reports about the safety of children first. If we conclude that an account breaks these terms, we may warn it, limit it, suspend it or close it, and where the law requires it we report to the competent authorities. You can contest a decision by writing to {{SUPPORT_EMAIL}}.</p>
+
+<h3 id="s6">6. Your content</h3>
+
+<p>What you send belongs to you or to whoever holds the rights to it. You give us only the permission needed to store and transmit your encrypted data so that it reaches your recipients. We cannot read it and we do not use it for any other purpose.</p>
+
+<h3 id="s7">7. Security limits</h3>
+
+<p>End-to-end encryption protects your communications in transit and on our servers. It cannot protect what is on a device that is lost, unlocked or compromised, or what a recipient chooses to do with a message. Verify your contacts (safety number or QR code) to make sure you are talking to the right person; CIPHERA tells you when a contact's keys change.</p>
+
+<h3 id="s8">8. Changes and availability</h3>
+
+<p>We keep improving CIPHERA and may change or remove features. We aim to keep the service available but cannot guarantee that it will always be available or free of errors. We will tell you in the app before changes to these terms take effect; if you do not agree, you can stop using the service and delete your account.</p>
+
+<h3 id="s9">9. Liability</h3>
+
+<p>Nothing in these terms limits liability that cannot be limited by law, in particular for intent, gross negligence, or death or personal injury caused by negligence, or your rights as a consumer. Otherwise, to the extent the law allows, we are not liable for indirect losses or for losses caused by events outside our reasonable control.</p>
+
+<h3 id="s10">10. Ending the agreement</h3>
+
+<p>You can stop using CIPHERA and delete your account in the app at any time (Settings → Delete account). We may close an account that seriously or repeatedly breaks these terms (section 5), and we disable an account whose e-mail address is no longer on the member list (section 3).</p>
+
+<h3 id="s11">11. Law</h3>
+
+<p>These terms are governed by the law of {{CONTROLLER_COUNTRY}}. If you are a consumer, you also keep the protection of the mandatory rules of the country where you live, and you may bring a claim in its courts.</p>
+
+<h3 id="s12">12. Contact</h3>
+
+<p>{{SUPPORT_EMAIL}} · MSCS di Stefan E., {{CONTROLLER_ADDRESS}}</p>
+
+</div></main>
+<footer><div class="wrap">
+  © 2026 MSCS di Stefan E. · CIPHERA Encrypted Chat · <a href="mailto:stefan@support-remote.org">stefan@support-remote.org</a><br>
+  Static site: no cookies, no scripts, no tracking.
+</div></footer>
+</body>
+</html>

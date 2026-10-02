@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Termenii serviciului · CIPHERA Encrypted Chat</title>
+<meta name="description" content="Termenii serviciului de mesagerie CIPHERA: cine îl poate folosi, folosire acceptabilă, raportare și măsuri.">
+<meta name="theme-color" content="#050B18">
+<link rel="icon" type="image/png" sizes="256x256" href="icon-256.png">
+<link rel="apple-touch-icon" href="icon-256.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <img class="mark" src="icon-256.png" width="44" height="44" alt="">
+      <div>
+        <h1>CIPHERA Encrypted Chat</h1>
+        <p>Mesaje, apeluri și fișiere criptate end-to-end · iPhone, iPad și Mac</p>
+      </div>
+    </div>
+    <nav>
+      <a href="./">Acasă</a>
+      <a href="support.html">Asistență</a>
+      <a href="privacy-ro.html">Confidențialitate</a>
+      <a href="terms-ro.html" class="on">Termenii serviciului</a>
+      <a href="terms.html">English</a>
+    </nav>
+  </div>
+</header>
+<main><div class="wrap">
+<h2>Termenii serviciului CIPHERA</h2>
+
+<p class="meta">Data intrării în vigoare: {{EFFECTIVE_DATE}} · <a href="terms.html">English version</a></p>
+
+<p>Acești termeni sunt un acord între tine și <strong>MSCS di Stefan E.</strong>, {{CONTROLLER_ADDRESS}} („noi”), pentru folosirea serviciului de mesagerie CIPHERA. Aplicația CIPHERA descărcată din App Store îți este licențiată prin Acordul de licență standard Apple pentru utilizatorul final (Licensed Application End User License Agreement); dacă acești termeni și acea licență se contrazic în privința aplicației, prevalează licența. Modul în care tratăm datele personale este descris în Politica de confidențialitate CIPHERA.</p>
+
+<h3 id="s1">1. Cine poate folosi CIPHERA</h3>
+
+<p>CIPHERA este pusă la dispoziția membrilor IPSTSO. Un cont poate fi creat doar cu o adresă de e-mail aflată pe lista de membri a acestei instalări CIPHERA; o adresă care nu este pe listă este refuzată la autentificare și nu se creează niciun cont. Lista este ținută de MSCS di Stefan E. și de operatorii desemnați de aceasta. Trebuie, de asemenea, să ai cel puțin 16 ani și să poți încheia acest acord, și nu poți folosi CIPHERA dacă legea țării tale o interzice.</p>
+
+<h3 id="s2">2. Contul și cheile tale</h3>
+
+<p>Te autentifici cu Apple, Google sau Microsoft. Cheile tale de identitate sunt create și păstrate pe dispozitivele tale. Nu îți putem citi mesajele și <strong>nu îți putem recupera cheile</strong>: dacă pierzi toate dispozitivele și nu ai configurat recuperarea, identitatea și istoricul mesajelor nu mai pot fi restaurate. Păstrează codul de recuperare secret și în siguranță, protejează dispozitivele cu cod de acces și elimină din Centrul de securitate dispozitivele pe care nu le mai folosești.</p>
+
+<h3 id="s3">3. Calitatea de membru și costul</h3>
+
+<p>CIPHERA este gratuită pentru membri. Nu există nimic de cumpărat în aplicație și nu se cere niciodată vreo plată. Accesul depinde de calitatea de membru: când adresa ta de e-mail sau domeniul organizației tale este scos de pe lista de membri, contul tău este dezactivat la următoarea verificare — sesiunile se încheie, nu te mai poți autentifica, iar contactele tale văd contul ca indisponibil. Datele tale nu sunt șterse prin acest pas; ne poți cere ștergerea lor (secțiunea 10) sau sunt șterse când îți ștergi contul.</p>
+
+<h3 id="s4">4. Folosire acceptabilă</h3>
+
+<p>Nu ai voie să folosești CIPHERA ca să:</p>
+
+<ul>
+  <li>distribui materiale care exploatează sexual sau pun în pericol copii, în orice formă;</li>
+  <li>ameninți, hărțuiești, intimidezi pe cineva sau să încurajezi violența ori autovătămarea;</li>
+  <li>trimiți spam, mesaje nesolicitate în masă sau mesaje automate către persoane care nu le-au cerut;</li>
+  <li>te dai drept altă persoană sau organizație ori să induci în eroare despre identitatea ta;</li>
+  <li>comiți sau promovezi fraude, înșelăciuni sau orice altă activitate ilegală ori să distribui programe malițioase;</li>
+  <li>încalci proprietatea intelectuală sau viața privată a altora, inclusiv distribuirea imaginilor intime ale cuiva fără consimțământ;</li>
+  <li>testezi, ataci, supraîncarci sau decompilezi serverele serviciului ori să ocolești blocări, limite sau suspendări.</li>
+</ul>
+
+<h3 id="s5">5. Blocare, raportare și măsuri</h3>
+
+<p>Poți bloca orice cont; un cont blocat nu te mai poate contacta. Poți raporta un cont, o conversație sau un mesaj din aplicație. Deoarece conținutul este criptat end-to-end, vedem doar ce alege cel care raportează să includă din propria copie a conversației. Analizăm rapoartele cât de repede putem, cu prioritate cele despre siguranța copiilor. Dacă stabilim că un cont încalcă acești termeni, îl putem avertiza, limita, suspenda sau închide, iar acolo unde legea o cere sesizăm autoritățile competente. Poți contesta o decizie scriind la {{SUPPORT_EMAIL}}.</p>
+
+<h3 id="s6">6. Conținutul tău</h3>
+
+<p>Ce trimiți îți aparține ție sau celui care deține drepturile. Ne acorzi doar permisiunea necesară ca să stocăm și să transmitem datele tale criptate până la destinatari. Nu le putem citi și nu le folosim în alt scop.</p>
+
+<h3 id="s7">7. Limitele securității</h3>
+
+<p>Criptarea end-to-end îți protejează comunicările pe drum și pe serverele noastre. Nu poate proteja ce se află pe un dispozitiv pierdut, deblocat sau compromis și nici ce face destinatarul cu un mesaj. Verifică-ți contactele (număr de siguranță sau cod QR) ca să fii sigur că vorbești cu persoana potrivită; CIPHERA te anunță când cheile unui contact se schimbă.</p>
+
+<h3 id="s8">8. Modificări și disponibilitate</h3>
+
+<p>Îmbunătățim CIPHERA continuu și putem modifica sau elimina funcții. Urmărim ca serviciul să fie disponibil, dar nu putem garanta că va fi mereu disponibil sau fără erori. Te anunțăm în aplicație înainte ca modificările acestor termeni să se aplice; dacă nu ești de acord, poți înceta să folosești serviciul și îți poți șterge contul.</p>
+
+<h3 id="s9">9. Răspundere</h3>
+
+<p>Nimic din acești termeni nu limitează răspunderea care nu poate fi limitată prin lege, în special pentru intenție, culpă gravă, deces sau vătămare corporală cauzate din neglijență, și nici drepturile tale de consumator. În rest, în măsura permisă de lege, nu răspundem pentru pierderi indirecte sau pentru pierderi cauzate de evenimente în afara controlului nostru rezonabil.</p>
+
+<h3 id="s10">10. Încetarea acordului</h3>
+
+<p>Poți înceta oricând să folosești CIPHERA și îți poți șterge contul din aplicație (Setări → Șterge contul). Putem închide un cont care încalcă grav sau repetat acești termeni (secțiunea 5) și dezactivăm un cont a cărui adresă de e-mail nu mai este pe lista de membri (secțiunea 3).</p>
+
+<h3 id="s11">11. Legea aplicabilă</h3>
+
+<p>Acești termeni sunt guvernați de legea {{CONTROLLER_COUNTRY}}. Dacă ești consumator, păstrezi și protecția normelor obligatorii din țara în care locuiești și poți introduce o acțiune la instanțele acesteia.</p>
+
+<h3 id="s12">12. Contact</h3>
+
+<p>{{SUPPORT_EMAIL}} · MSCS di Stefan E., {{CONTROLLER_ADDRESS}}</p>
+
+</div></main>
+<footer><div class="wrap">
+  © 2026 MSCS di Stefan E. · CIPHERA Encrypted Chat · <a href="mailto:stefan@support-remote.org">stefan@support-remote.org</a><br>
+  Site static: fără cookie-uri, fără scripturi, fără urmărire.
+</div></footer>
+</body>
+</html>

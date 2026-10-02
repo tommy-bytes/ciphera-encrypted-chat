@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy Policy · CIPHERA Encrypted Chat</title>
+<meta name="description" content="What personal data the CIPHERA service processes, why, for how long, and your rights under the GDPR.">
+<meta name="theme-color" content="#050B18">
+<link rel="icon" type="image/png" sizes="256x256" href="icon-256.png">
+<link rel="apple-touch-icon" href="icon-256.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <img class="mark" src="icon-256.png" width="44" height="44" alt="">
+      <div>
+        <h1>CIPHERA Encrypted Chat</h1>
+        <p>End-to-end encrypted messages, calls and files · iPhone, iPad and Mac</p>
+      </div>
+    </div>
+    <nav>
+      <a href="./">Home</a>
+      <a href="support.html">Support</a>
+      <a href="privacy.html" class="on">Privacy Policy</a>
+      <a href="terms.html">Terms of Service</a>
+      <a href="privacy-ro.html">Română</a>
+    </nav>
+  </div>
+</header>
+<main><div class="wrap">
+<h2>CIPHERA Privacy Policy</h2>
+
+<p class="meta">Effective date: {{EFFECTIVE_DATE}} · <a href="privacy-ro.html">Versiunea în limba română</a></p>
+
+<p>CIPHERA is an end-to-end encrypted messenger for iPhone, iPad, Mac and Windows, provided free of charge to members of IPSTSO. This policy explains what personal data the CIPHERA service processes, why, for how long, who else is involved and what rights you have.</p>
+
+<h3 id="s1">1. Who is responsible</h3>
+
+<p>The controller of your personal data is <strong>MSCS di Stefan E.</strong>, {{CONTROLLER_ADDRESS}}. For any question about privacy or to exercise your rights, write to <strong>{{PRIVACY_EMAIL}}</strong>.</p>
+
+<h3 id="s2">2. What we cannot see</h3>
+
+<p>The content of your messages, the audio and video of your calls and the content of the files you send are encrypted on your device with keys that only the devices taking part hold. Our servers store and forward this encrypted data but cannot decrypt it. We therefore do not have, and cannot hand over, the content of your communications.</p>
+
+<p>Your private keys stay on your devices. If you set up recovery, a recovery backup is stored on our server encrypted with your recovery code, which we never receive; we cannot open it.</p>
+
+<h3 id="s3">3. What we process and why</h3>
+
+<table>
+  <tr><th>Data</th><th>Why</th><th>Legal basis (GDPR)</th></tr>
+  <tr><td>Your e-mail address, the display name and the account identifier given by the sign-in provider you choose (Apple, Google or Microsoft), and whether the provider verified the e-mail address</td><td>To create your account, sign you in and let people you communicate with identify you</td><td>Performance of the contract (Art. 6(1)(b))</td></tr>
+  <tr><td>Your CIPHERA ID, the public parts of your identity and device keys, signed device lists and prekeys</td><td>So that other users' apps can encrypt to your devices and check that the keys really are yours</td><td>Contract</td></tr>
+  <tr><td>Device information: device name, platform (iOS, iPadOS, macOS, Windows), app version, when each device and session was added and last active</td><td>To show you, in Security Center, every device and session on your account and let you remove them</td><td>Contract; legitimate interest in account security (Art. 6(1)(f))</td></tr>
+  <tr><td>Your contact list in CIPHERA, the conversations and groups you are in and members' roles</td><td>To deliver messages to the right people and to show conversation membership</td><td>Contract</td></tr>
+  <tr><td>Routing data of encrypted messages and files: sender and recipient account and device, size, time</td><td>To deliver encrypted data to the right devices</td><td>Contract</td></tr>
+  <tr><td>Call records: when you call someone, that your account and device called their account, and when. We do not record whether the call was answered, how long it lasted, or anything said or shown in it</td><td>To connect the call (the ring reaches the other person's devices) and to keep the security record described in section 6</td><td>Contract; legitimate interest in security (Art. 6(1)(f))</td></tr>
+  <tr><td>Security events of your account (for example a new device, a changed key, a revoked session)</td><td>To show you what happened to your account's security</td><td>Contract; legitimate interest in security</td></tr>
+  <tr><td>Push notification tokens of your Apple devices (stored encrypted)</td><td>To tell your device that something new is waiting. Notifications carry no message content</td><td>Contract</td></tr>
+  <tr><td>The member list of this deployment: the e-mail addresses and e-mail domains allowed to use it, who added each entry, when, a short note and, if removed, when</td><td>To decide who may create an account and to disable accounts whose membership ended</td><td>Legitimate interest in running a members-only service (Art. 6(1)(f)); contract once you are a member</td></tr>
+  <tr><td>Refused sign-in attempts of addresses that are not on the member list, stored only as keyed hashes (no e-mail, no IP address)</td><td>To limit repeated attempts and to let operators see that attempts happened</td><td>Legitimate interest in security</td></tr>
+  <tr><td>Privacy and security settings (for example whether others can find you by e-mail)</td><td>To apply your choices</td><td>Contract</td></tr>
+  <tr><td>Abuse reports: the reason, the accounts involved, your note and the messages <strong>you</strong> choose to include from your own copy of the conversation</td><td>To review reports and act against abuse</td><td>Legitimate interest in keeping the service safe</td></tr>
+  <tr><td>Sign-in attempts, stored only as keyed hashes (no e-mail, no IP address)</td><td>To stop password-guessing and automated abuse</td><td>Legitimate interest in security</td></tr>
+  <tr><td>Organization membership, if you join an organization in CIPHERA</td><td>See section 5</td><td>Contract</td></tr>
+</table>
+
+<p>We do not store IP addresses in our database or in our logs. Your IP address is used for the duration of a request, including to limit abusive request rates, and is then discarded; when a call is relayed through our call relay, the relay uses the addresses of both devices for the duration of the call only. We do not use analytics, advertising or tracking tools, we do not sell data and we do not build profiles.</p>
+
+<h3 id="s4">4. Who can see what inside CIPHERA</h3>
+
+<p>People you communicate with see your display name, your CIPHERA ID, your public keys and the list of your devices (their apps need it to encrypt to each of your devices). If "Findable by e-mail" is on in your privacy settings, someone who already knows your e-mail address can find your account.</p>
+
+<p>Operators — the people MSCS di Stefan E. designates to manage the member list — see the list itself (addresses, domains, who added an entry and when) in the Members section of their Security Center and receive a security event when it changes. They cannot see the content of anyone's communications.</p>
+
+<h3 id="s5">5. Organizations</h3>
+
+<p>If you join an organization in CIPHERA, its owner and security administrators can see your display name, e-mail address, your devices (name, platform, app version, activity dates) and security events relevant to the organization's policy. They cannot see the content of your communications.</p>
+
+<h3 id="s6">6. How long we keep data</h3>
+
+<table>
+  <tr><th>Data</th><th>Kept</th></tr>
+  <tr><td>Account data, keys' public parts, devices, contacts, settings, security events, push tokens</td><td>Until you delete your account or the item (for example a removed device)</td></tr>
+  <tr><td>Your entry on the member list</td><td>Until an operator removes it; a removed entry keeps its removal date so that the account it disabled stays disabled, and is deleted with your account data on request</td></tr>
+  <tr><td>Encrypted messages waiting for delivery</td><td>Until delivered to every recipient device, and never longer than 30 days</td></tr>
+  <tr><td>Encrypted files</td><td>30 days after upload, then deleted (storage keeps deleted data for up to 7 more days)</td></tr>
+  <tr><td>Sign-in attempt records (keyed hashes)</td><td>30 days</td></tr>
+  <tr><td>One-time sign-in challenges and tokens</td><td>Minutes to hours, until they expire</td></tr>
+  <tr><td>Abuse reports</td><td>Until reviewed and then for as long as needed to handle repeated abuse, at most 12 months after the decision; reports you filed are deleted with your account</td></tr>
+  <tr><td>Security audit log: account and device identifiers, the type of action and its time (for example "device revoked"), and for some actions the other account involved — who called whom, who blocked or reported whom, whose identity a user recorded as verified — or, for files, the conversation and the file size. No e-mail, name, message, file or call content</td><td>Append-only and tamper-evident; kept while the service operates, because it is the record that proves security actions were taken</td></tr>
+  <tr><td>Operational server logs (no IP addresses, no content)</td><td>30 days</td></tr>
+  <tr><td>Backups of the database</td><td>Up to 35 days, then overwritten</td></tr>
+</table>
+
+<p>When you delete your account we delete your identity keys, devices, contacts, direct conversations, group memberships, recovery backup, settings, security events, push tokens and reports you filed. We keep only a minimal marker (your account identifier, CIPHERA ID and the deletion date, with e-mail and name removed) so that other users see that the account was deleted instead of an error, and the entries of the security audit log described above, including those that name your account as the caller or the person called. Your e-mail address stays on the member list until an operator removes it; ask us if you want it removed as well.</p>
+
+<h3 id="s7">7. Service providers and other recipients</h3>
+
+<p>We use these providers. Where a provider processes data on our behalf, it is bound by a data processing agreement and must protect the data at least as well as this policy describes.</p>
+
+<ul>
+  <li><strong>Microsoft Azure</strong> (Microsoft Ireland Operations Ltd) hosts our servers, database, encrypted file storage, call relay and logs, in {{HOSTING_REGION}} in the European Union. Processor.</li>
+  <li><strong>Apple</strong> delivers push notifications to Apple devices and, if you choose it, provides Sign in with Apple (including private relay e-mail addresses — note that a private relay address is not on the member list, so sign in with the address of your Apple Account). Apple acts under its own privacy policy for these services.</li>
+  <li><strong>Google</strong> or <strong>Microsoft</strong>, only if you choose to sign in with them, confirm your identity to us. They act under their own privacy policies.</li>
+</ul>
+
+<p>We disclose data to authorities only when the law requires it, and we can only disclose what we have (section 3), never the content of communications. Where a provider transfers data outside the European Economic Area, it relies on the transfer mechanisms of the GDPR, such as an adequacy decision (including the EU–US Data Privacy Framework) or standard contractual clauses.</p>
+
+<h3 id="s8">8. Security</h3>
+
+<p>Encryption of content is end to end, using published algorithms (X25519, Ed25519, AES-256-GCM, HKDF, SHA-2). Connections to our servers use TLS. Your devices protect their keys with the device keychain and your app PIN or biometrics. Security Center shows every device and session on your account so you can remove any you do not recognise. No system is perfectly secure; if your device itself is compromised, end-to-end encryption cannot protect what is displayed on it.</p>
+
+<h3 id="s9">9. Your rights</h3>
+
+<p>Under the GDPR you have the right to access your data, to rectify it, to erase it, to restrict or object to its processing, to data portability, and to withdraw consent where processing is based on consent. You can see most of your data in Security Center and delete your account in the app at any time (Settings → Delete account). For anything else write to {{PRIVACY_EMAIL}}; we answer within one month. You can also lodge a complaint with the data protection authority of the country where you live, work or where you believe the infringement took place.</p>
+
+<h3 id="s10">10. Children</h3>
+
+<p>CIPHERA is not intended for anyone under 16 years of age. We do not knowingly process data of children under 16; if you believe a child has an account, write to us and we will delete it.</p>
+
+<h3 id="s11">11. Changes to this policy</h3>
+
+<p>If we change this policy we will publish the new version here with a new effective date and, for significant changes, tell you in the app before they take effect.</p>
+
+</div></main>
+<footer><div class="wrap">
+  © 2026 MSCS di Stefan E. · CIPHERA Encrypted Chat · <a href="mailto:stefan@support-remote.org">stefan@support-remote.org</a><br>
+  Static site: no cookies, no scripts, no tracking.
+</div></footer>
+</body>
+</html>
