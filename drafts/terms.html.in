@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Terms of Service · CIPHERA Encrypted Chat</title>
-<meta name="description" content="The terms of the CIPHERA messaging service: who may use it, acceptable use, reporting and enforcement.">
+<meta name="description" content="The terms of the CIPHERA messaging service: who may use it, the subscription and free use through your organization, acceptable use, reporting and enforcement.">
 <meta name="theme-color" content="#050B18">
 <link rel="icon" type="image/png" sizes="256x256" href="icon-256.png">
 <link rel="apple-touch-icon" href="icon-256.png">
@@ -38,15 +38,19 @@
 
 <h3 id="s1">1. Who may use CIPHERA</h3>
 
-<p>CIPHERA is provided to members of IPSTSO. An account can be created only with an e-mail address that is on the member list of this CIPHERA deployment; an address that is not listed is refused at sign-in and no account is created. The list is kept by MSCS di Stefan E. and the operators it designates. You must also be at least 16 years old and able to enter into this agreement, and you may not use CIPHERA if the law of your country forbids it.</p>
+<p>You must be at least 16 years old and able to enter into this agreement. You may not use CIPHERA if the law of your country forbids it.</p>
 
 <h3 id="s2">2. Your account and your keys</h3>
 
-<p>You sign in with Apple, Google or Microsoft. Your identity keys are created and kept on your devices. We cannot read your messages and <strong>we cannot recover your keys</strong>: if you lose all your devices and have not set up recovery, your identity and your message history cannot be restored. Keep your recovery code private and safe, protect your devices with a passcode, and remove devices you no longer use in Security Center.</p>
+<p>You sign in with Apple or with a one-time code sent to your e-mail address. Your identity keys are created and kept on your devices. We cannot read your messages and <strong>we cannot recover your keys</strong>: if you lose all your devices and have not set up recovery, your identity and your message history cannot be restored. Keep your recovery code private and safe, protect your devices with a passcode, and remove devices you no longer use in Security Center.</p>
 
-<h3 id="s3">3. Membership and cost</h3>
+<h3 id="s3">3. Subscription and free use through your organization</h3>
 
-<p>CIPHERA is free of charge for members. There is nothing to buy in the app and no payment is ever requested. Access depends on membership: when your e-mail address or your organisation's domain is removed from the member list, your account is disabled at the next check — your sessions end, you can no longer sign in and your contacts see your account as unavailable. Your data is not deleted by that step; you can ask us to delete it (section 10), or it is deleted when you delete the account.</p>
+<p><strong>3.1 What the subscription covers.</strong> Sending messages, starting conversations, adding contacts, groups, calls and files require an active CIPHERA subscription, unless your account uses CIPHERA free of charge through your organization (3.3). Without either you can still sign in, use Security Center, manage your devices and sessions, set up recovery, sign out, delete your account and read messages already delivered to your device.</p>
+
+<p><strong>3.2 Billing through Apple.</strong> The subscription "CIPHERA" is an auto-renewable subscription sold through the App Store, monthly (CIPHERA Monthly) or yearly (CIPHERA Annual). In the euro area it costs 9.99 € per month or 89.99 € per year; the App Store shows the price for your country before you confirm. Payment is charged to your Apple Account when you confirm the purchase. The subscription <strong>renews automatically</strong> for the same period and price unless you cancel it at least 24 hours before the end of the current period; the renewal is charged within the 24 hours before the period ends. <strong>Cancellation:</strong> you manage and cancel the subscription in your Apple Account settings (on iPhone and iPad: Settings → your name → Subscriptions; on a Mac: App Store → your account → Subscriptions); cancelling stops the next renewal and you keep access until the end of the period already paid. <strong>Refunds</strong> are decided by Apple under its terms; you request one from Apple (reportaproblem.apple.com), not from us. Price changes follow Apple's rules, and Apple tells you about them before they apply. We never receive your payment details. The subscription belongs to your CIPHERA account and works on every device signed in to it, including CIPHERA for Windows, where nothing is sold. Deleting your CIPHERA account does not cancel the subscription: cancel it with Apple.</p>
+
+<p><strong>3.3 Free through your organization.</strong> Organizations can provide CIPHERA to their members by enrolling their e-mail domain with us. If your account's e-mail address — as verified by the sign-in provider (Sign in with Apple when you share your e-mail, or the e-mail code) — is on an enrolled domain, you use CIPHERA free of charge, with nothing to buy or renew. Only an exact domain counts, never a similar-looking one or a private relay address. Free use lasts as long as the domain stays enrolled and your address is on it; if either ends, the features of 3.1 need the subscription from then on. Nothing of your account or your data is deleted by that change, and a subscription you bought earlier is not refunded by us because of it (refunds: 3.2).</p>
 
 <h3 id="s4">4. Acceptable use</h3>
 
@@ -84,7 +88,7 @@
 
 <h3 id="s10">10. Ending the agreement</h3>
 
-<p>You can stop using CIPHERA and delete your account in the app at any time (Settings → Delete account). We may close an account that seriously or repeatedly breaks these terms (section 5), and we disable an account whose e-mail address is no longer on the member list (section 3).</p>
+<p>You can stop using CIPHERA and delete your account in the app at any time (Settings → Delete account). We may close an account that seriously or repeatedly breaks these terms (section 5). Closing an account does not cancel an App Store subscription; cancel it with Apple (section 3.2).</p>
 
 <h3 id="s11">11. Law</h3>
 

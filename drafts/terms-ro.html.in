@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Termenii serviciului · CIPHERA Encrypted Chat</title>
-<meta name="description" content="Termenii serviciului de mesagerie CIPHERA: cine îl poate folosi, folosire acceptabilă, raportare și măsuri.">
+<meta name="description" content="Termenii serviciului de mesagerie CIPHERA: cine îl poate folosi, abonamentul și folosirea gratuită prin organizație, folosire acceptabilă, raportare și măsuri.">
 <meta name="theme-color" content="#050B18">
 <link rel="icon" type="image/png" sizes="256x256" href="icon-256.png">
 <link rel="apple-touch-icon" href="icon-256.png">
@@ -38,15 +38,19 @@
 
 <h3 id="s1">1. Cine poate folosi CIPHERA</h3>
 
-<p>CIPHERA este pusă la dispoziția membrilor IPSTSO. Un cont poate fi creat doar cu o adresă de e-mail aflată pe lista de membri a acestei instalări CIPHERA; o adresă care nu este pe listă este refuzată la autentificare și nu se creează niciun cont. Lista este ținută de MSCS di Stefan E. și de operatorii desemnați de aceasta. Trebuie, de asemenea, să ai cel puțin 16 ani și să poți încheia acest acord, și nu poți folosi CIPHERA dacă legea țării tale o interzice.</p>
+<p>Trebuie să ai cel puțin 16 ani și să poți încheia acest acord. Nu poți folosi CIPHERA dacă legea țării tale o interzice.</p>
 
 <h3 id="s2">2. Contul și cheile tale</h3>
 
-<p>Te autentifici cu Apple, Google sau Microsoft. Cheile tale de identitate sunt create și păstrate pe dispozitivele tale. Nu îți putem citi mesajele și <strong>nu îți putem recupera cheile</strong>: dacă pierzi toate dispozitivele și nu ai configurat recuperarea, identitatea și istoricul mesajelor nu mai pot fi restaurate. Păstrează codul de recuperare secret și în siguranță, protejează dispozitivele cu cod de acces și elimină din Centrul de securitate dispozitivele pe care nu le mai folosești.</p>
+<p>Te autentifici cu Apple sau cu un cod de unică folosință trimis pe adresa ta de e-mail. Cheile tale de identitate sunt create și păstrate pe dispozitivele tale. Nu îți putem citi mesajele și <strong>nu îți putem recupera cheile</strong>: dacă pierzi toate dispozitivele și nu ai configurat recuperarea, identitatea și istoricul mesajelor nu mai pot fi restaurate. Păstrează codul de recuperare secret și în siguranță, protejează dispozitivele cu cod de acces și elimină din Centrul de securitate dispozitivele pe care nu le mai folosești.</p>
 
-<h3 id="s3">3. Calitatea de membru și costul</h3>
+<h3 id="s3">3. Abonamentul și folosirea gratuită prin organizația ta</h3>
 
-<p>CIPHERA este gratuită pentru membri. Nu există nimic de cumpărat în aplicație și nu se cere niciodată vreo plată. Accesul depinde de calitatea de membru: când adresa ta de e-mail sau domeniul organizației tale este scos de pe lista de membri, contul tău este dezactivat la următoarea verificare — sesiunile se încheie, nu te mai poți autentifica, iar contactele tale văd contul ca indisponibil. Datele tale nu sunt șterse prin acest pas; ne poți cere ștergerea lor (secțiunea 10) sau sunt șterse când îți ștergi contul.</p>
+<p><strong>3.1 Ce acoperă abonamentul.</strong> Trimiterea mesajelor, începerea conversațiilor, adăugarea contactelor, grupurile, apelurile și fișierele necesită un abonament CIPHERA activ, cu excepția cazului în care contul tău folosește CIPHERA gratuit prin organizația ta (3.3). Fără niciuna dintre ele poți în continuare să te autentifici, să folosești Centrul de securitate, să îți gestionezi dispozitivele și sesiunile, să configurezi recuperarea, să te deconectezi, să îți ștergi contul și să citești mesajele deja livrate pe dispozitiv.</p>
+
+<p><strong>3.2 Facturarea prin Apple.</strong> Abonamentul „CIPHERA” este un abonament cu reînnoire automată vândut prin App Store, lunar (CIPHERA lunar) sau anual (CIPHERA anual). În zona euro costă 9,99 € pe lună sau 89,99 € pe an; App Store îți arată prețul pentru țara ta înainte să confirmi. Plata se debitează din contul tău Apple când confirmi cumpărarea. Abonamentul <strong>se reînnoiește automat</strong> pentru aceeași perioadă și la același preț dacă nu îl anulezi cu cel puțin 24 de ore înainte de sfârșitul perioadei curente; reînnoirea se debitează în ultimele 24 de ore ale perioadei. <strong>Anularea:</strong> abonamentul se gestionează și se anulează din setările contului Apple (pe iPhone și iPad: Configurări → numele tău → Abonamente; pe Mac: App Store → contul tău → Abonamente); anularea oprește următoarea reînnoire, iar accesul rămâne până la sfârșitul perioadei deja plătite. <strong>Rambursările</strong> sunt decise de Apple conform termenilor săi; le ceri de la Apple (reportaproblem.apple.com), nu de la noi. Modificările de preț urmează regulile Apple, iar Apple te anunță înainte să se aplice. Nu primim niciodată datele tale de plată. Abonamentul aparține contului tău CIPHERA și funcționează pe toate dispozitivele autentificate în el, inclusiv CIPHERA pentru Windows, unde nu se vinde nimic. Ștergerea contului CIPHERA nu anulează abonamentul: anulează-l la Apple.</p>
+
+<p><strong>3.3 Gratuit prin organizația ta.</strong> Organizațiile pot oferi CIPHERA membrilor lor înscriindu-și la noi domeniul de e-mail. Dacă adresa de e-mail a contului tău — așa cum a verificat-o furnizorul de autentificare (Sign in with Apple când îți partajezi e-mailul sau codul primit pe e-mail) — este pe un domeniu înscris, folosești CIPHERA gratuit, fără nimic de cumpărat sau de reînnoit. Contează doar domeniul exact, niciodată unul asemănător sau o adresă privată de redirecționare. Folosirea gratuită durează cât timp domeniul rămâne înscris și adresa ta este pe el; dacă oricare dintre ele încetează, funcțiile de la 3.1 au nevoie de abonament de atunci încolo. Nimic din contul sau din datele tale nu se șterge prin această schimbare, iar un abonament cumpărat anterior nu este rambursat de noi din acest motiv (rambursări: 3.2).</p>
 
 <h3 id="s4">4. Folosire acceptabilă</h3>
 
@@ -84,7 +88,7 @@
 
 <h3 id="s10">10. Încetarea acordului</h3>
 
-<p>Poți înceta oricând să folosești CIPHERA și îți poți șterge contul din aplicație (Setări → Șterge contul). Putem închide un cont care încalcă grav sau repetat acești termeni (secțiunea 5) și dezactivăm un cont a cărui adresă de e-mail nu mai este pe lista de membri (secțiunea 3).</p>
+<p>Poți înceta oricând să folosești CIPHERA și îți poți șterge contul din aplicație (Setări → Șterge contul). Putem închide un cont care încalcă grav sau repetat acești termeni (secțiunea 5). Închiderea unui cont nu anulează un abonament App Store; anulează-l la Apple (secțiunea 3.2).</p>
 
 <h3 id="s11">11. Legea aplicabilă</h3>
 

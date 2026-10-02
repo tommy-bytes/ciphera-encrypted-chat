@@ -45,10 +45,10 @@ PAGES = [
      "Ce date personale prelucrează serviciul CIPHERA, de ce, cât timp și ce drepturi ai conform GDPR.",
      "privacy.html", "English version"),
     ("terms-of-use.md", "terms.html.in", "en", "terms", "Terms of Service · CIPHERA Encrypted Chat",
-     "The terms of the CIPHERA messaging service: who may use it, acceptable use, reporting and enforcement.",
+     "The terms of the CIPHERA messaging service: who may use it, the subscription and free use through your organization, acceptable use, reporting and enforcement.",
      "terms-ro.html", "Versiunea în limba română"),
     ("terms-of-use.ro.md", "terms-ro.html.in", "ro", "terms", "Termenii serviciului · CIPHERA Encrypted Chat",
-     "Termenii serviciului de mesagerie CIPHERA: cine îl poate folosi, folosire acceptabilă, raportare și măsuri.",
+     "Termenii serviciului de mesagerie CIPHERA: cine îl poate folosi, abonamentul și folosirea gratuită prin organizație, folosire acceptabilă, raportare și măsuri.",
      "terms.html", "English version"),
 ]
 

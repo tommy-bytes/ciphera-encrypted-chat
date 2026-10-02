@@ -1,7 +1,7 @@
 # CIPHERA Encrypted Chat — public site
 
 Source of the GitHub Pages site for the **CIPHERA Encrypted Chat** app (end-to-end encrypted messaging for
-iPhone, iPad and Mac, provided free of charge to IPSTSO members). Rights holder: MSCS di Stefan E.
+iPhone, iPad and Mac, free through enrolled organizations, a subscription for everyone else). Rights holder: MSCS di Stefan E.
 
 | Page | Used in App Store Connect as |
 |---|---|
@@ -29,4 +29,4 @@ commits, pushes and waits for the pages to answer HTTP 200. See the header of th
 
 ## What is not kept here
 
-No member list, no e-mail addresses of members, no keys, no server configuration. The repository is public.
+No list of enrolled domains or members, no e-mail addresses of users, no keys, no server configuration. The repository is public.
