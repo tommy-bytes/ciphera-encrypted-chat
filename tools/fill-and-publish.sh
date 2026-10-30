@@ -58,7 +58,13 @@ def value(name, lang):
         sys.exit(f"no value for {name}")
     esc = html.escape(v, quote=False)
     if name.endswith("_EMAIL"):
-        return f'<a href="mailto:{esc}">{esc}</a>'
+        # Several addresses ("a@x / b@y" or "a@x, b@y") become one mailto link each: a single href with a space or a
+        # slash in it is not a valid address and mail clients refuse it.
+        addrs = [a.strip() for a in re.split(r"\s*[/,;]\s*", v) if a.strip()]
+        bad = [a for a in addrs if not re.fullmatch(r"[^@\s/]+@[^@\s/]+\.[A-Za-z]{2,}", a)]
+        if bad:
+            sys.exit(f"{name}: not an e-mail address: {bad}")
+        return " / ".join(f'<a href="mailto:{html.escape(a)}">{html.escape(a, quote=False)}</a>' for a in addrs)
     return esc
 
 failed = False

@@ -16,7 +16,7 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DEFAULT_SRC = pathlib.Path(
-    "/Users/stefanepistatu/Library/Mobile Documents/com~apple~CloudDocs/Aplicatii IOS Create /Ciphera/docs/legal"
+    "/Volumes/PROIECTE/Ciphera/docs/legal"
 )
 
 FIELD = re.compile(r"\{\{[A-Z0-9_]+\}\}")

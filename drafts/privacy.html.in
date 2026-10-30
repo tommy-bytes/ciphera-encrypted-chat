@@ -68,7 +68,7 @@
   <tr><td>Organization membership, if you join an organization in CIPHERA</td><td>See section 5</td><td>Contract</td></tr>
 </table>
 
-<p>We do not store IP addresses in our database or in our logs. Your IP address is used for the duration of a request, including to limit abusive request rates, and is then discarded; when a call is relayed through our call relay, the relay uses the addresses of both devices for the duration of the call only. We do not use analytics, advertising or tracking tools, we do not sell data and we do not build profiles.</p>
+<p>We do not store IP addresses in our database or in our logs. Your IP address is used for the duration of a request, including to limit abusive request rates, and is then discarded. Calls connect directly between the devices; if we offer a call relay and a call goes through it, the relay uses the addresses of both devices for the duration of that call only. We do not use analytics, advertising or tracking tools, we do not sell data and we do not build profiles.</p>
 
 <h3 id="s4">4. Who can see what inside CIPHERA</h3>
 
@@ -105,9 +105,9 @@
 <p>We use these providers. Where a provider processes data on our behalf, it is bound by a data processing agreement and must protect the data at least as well as this policy describes.</p>
 
 <ul>
-  <li><strong>Microsoft Azure</strong> (Microsoft Ireland Operations Ltd) hosts our servers, database, encrypted file storage, call relay and logs, in {{HOSTING_REGION}} in the European Union, and sends the e-mail with your sign-in code (Azure Communication Services, data stored in Europe). Processor.</li>
+  <li><strong>Microsoft Azure</strong> (Microsoft Ireland Operations Ltd) hosts our servers, database, encrypted file storage and logs (and the call relay, when we offer one), in {{HOSTING_REGION}} in the European Union, and sends the e-mail with your sign-in code (Azure Communication Services, data stored in Europe). Processor.</li>
   <li><strong>Apple</strong> processes App Store purchases and subscriptions (we receive only the signed subscription records of section 3), delivers push notifications to Apple devices and, if you choose it, provides Sign in with Apple (including private relay e-mail addresses — a private relay address is never on an enrolled domain, so share the address of your Apple Account if your organization provides CIPHERA). Apple acts under its own privacy policy for these services.</li>
-  <li><strong>Google</strong> or <strong>Microsoft</strong>, only if you choose to sign in with them, confirm your identity to us. They act under their own privacy policies.</li>
+  <li><strong>Google</strong> or <strong>Microsoft</strong>, only if CIPHERA offers sign-in with them and you choose it, confirm your identity to us. They act under their own privacy policies. The App Store app offers Sign in with Apple and the e-mail code.</li>
 </ul>
 
 <p>We disclose data to authorities only when the law requires it, and we can only disclose what we have (section 3), never the content of communications. Where a provider transfers data outside the European Economic Area, it relies on the transfer mechanisms of the GDPR, such as an adequacy decision (including the EU–US Data Privacy Framework) or standard contractual clauses.</p>
