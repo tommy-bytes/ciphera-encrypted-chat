@@ -111,7 +111,7 @@
 
 <h3 id="s8">8. Security</h3>
 
-<p>Encryption of content is end to end, using published algorithms (X25519, Ed25519, AES-256-GCM, HKDF, SHA-2). Connections to our servers use TLS. Your devices protect their keys with the device keychain and your app PIN or biometrics. Security Center shows every device and session on your account so you can remove any you do not recognise. No system is perfectly secure; if your device itself is compromised, end-to-end encryption cannot protect what is displayed on it.</p>
+<p>Encryption of content is end to end, using published algorithms (X25519, Ed25519, AES-256-GCM, HKDF, SHA-2). Connections to our servers use TLS. Your devices protect their keys with the device keychain and your app PIN or biometrics. Security Center shows every device and session on your account so you can remove any you do not recognize. No system is perfectly secure; if your device itself is compromised, end-to-end encryption cannot protect what is displayed on it.</p>
 
 <h3 id="s9">9. Your rights</h3>
 
